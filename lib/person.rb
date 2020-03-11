@@ -1,4 +1,4 @@
-require_relative '../lib/person'
+require_relative '/lib/person'
 
 class Person
   def initialize(name)
